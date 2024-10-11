@@ -153,6 +153,7 @@ const arr4 = [10, "29", 10, 100, 11, 'true', false, 'undefined', true, null, 'so
 // Result: [20, "true is string", "false is falsy value"]
 
 // 2.Sum all numbers of arr4
+
 //2.1
  // let sum1 = 0
  // for (let i = 0; i<arr4.length ;i++) {
